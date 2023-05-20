@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\visualstudio\ASP2\dz3.1\Project1\Project1\QuadriaticHashing.h(10,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\visualstudio\ASP2\dz3.1\Project1\Project1\HashTable.h(35,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\visualstudio\ASP2\dz3.1\Project1\Debug\Project1.exe
